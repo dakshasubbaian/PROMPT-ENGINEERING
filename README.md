@@ -63,7 +63,8 @@ Step 7: Finalize and Export
 
 # Output:
 
-<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/b51747e7-7131-4967-a407-327d674f65ef" />
+<img width="1001" height="801" alt="image" src="https://github.com/user-attachments/assets/4654e135-f2db-4836-be36-89b07bcce1bc" />
+
 
 ## 1. Foundational Concepts of Generative AI
 
